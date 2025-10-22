@@ -1,3 +1,14 @@
+# Creating and managing virtual environments in Kali Linux
+
+**Create Enviroment**
+```shell 
+python3 -m venv myenv 
+```
+**Run Enviroment**
+```
+source myenv/bin/activate
+```
+
 # AdvanceIP
 
 **git clone**
